@@ -1,0 +1,545 @@
+# Projeto: Site Institucional e Comercial — Brasil Forte Impermeabilizadora
+
+Precisamos desenvolver um site moderno, profissional e responsivo para a **Brasil Forte Impermeabilizadora**.
+
+O principal objetivo do site é apresentar a empresa, transmitir confiança, mostrar os serviços realizados, exibir portfólio e resultados e, principalmente, gerar novos contatos e pedidos de orçamento.
+
+O site deve funcionar ao mesmo tempo como **apresentação institucional, portfólio de obras e página comercial de captação de clientes**.
+
+## Identidade visual
+
+A identidade deve seguir uma linha moderna, técnica e sofisticada, relacionada ao setor de construção civil e impermeabilização.
+
+Paleta principal:
+
+* Preto
+* Grafite
+* Branco
+* Cinza claro
+* Amarelo/dourado como cor de destaque
+
+O amarelo deve ser usado principalmente em:
+
+* Botões
+* Ícones
+* Linhas de destaque
+* Números
+* Pequenos detalhes visuais
+* CTAs
+
+Evitar excesso de amarelo.
+
+O visual precisa ser elegante, limpo e moderno, sem deixar o site pesado ou com aparência de template genérico de construção civil.
+
+Utilizar bastante espaço em branco, seções bem definidas, cards modernos, cantos levemente arredondados e sombras sutis.
+
+A experiência deve transmitir:
+
+**confiança + técnica + organização + qualidade + profissionalismo.**
+
+---
+
+# Estrutura do site
+
+## 1. Header / Menu
+
+Criar um menu fixo ou sticky no topo.
+
+Elementos:
+
+Logo da Brasil Forte à esquerda.
+
+Menu central ou à direita:
+
+* Início
+* Sobre
+* Serviços
+* Obras
+* Antes e Depois
+* Contato
+
+Botão principal:
+
+**Solicitar orçamento**
+
+Esse botão deve direcionar para o WhatsApp ou para a seção de orçamento.
+
+O header deve ter fundo escuro e visual minimalista.
+
+---
+
+# 2. Hero / Banner principal
+
+Criar uma grande seção inicial com imagem relacionada à impermeabilização.
+
+Pode mostrar um profissional realizando impermeabilização de laje ou cobertura.
+
+Do lado esquerdo inserir:
+
+Texto pequeno de apoio:
+
+**PROTEÇÃO QUE DÁ TRANQUILIDADE**
+
+Título principal:
+
+**IMPERMEABILIZAÇÃO PROFISSIONAL PARA PROTEGER SEU PATRIMÔNIO.**
+
+Descrição:
+
+Soluções completas para impermeabilização residencial, comercial e industrial, oferecendo segurança, durabilidade e valorização para o imóvel.
+
+Adicionar dois botões:
+
+**Solicitar orçamento**
+
+**Conhecer serviços**
+
+A imagem deve ocupar boa parte da área direita da seção.
+
+Aplicar um gradiente escuro sobre a imagem para melhorar a leitura dos textos.
+
+---
+
+# 3. Indicadores da empresa
+
+Logo abaixo do banner principal criar uma barra/card horizontal com quatro indicadores.
+
+Exemplos:
+
+**+10 anos**
+de experiência
+
+**+1.200**
+obras realizadas
+
+**Equipe especializada**
+
+**Garantia**
+em nossos serviços
+
+Cada item deve possuir um pequeno ícone.
+
+Essa barra pode ficar parcialmente sobreposta ao final do banner para dar um visual moderno.
+
+---
+
+# 4. Sobre a empresa
+
+Criar uma seção dividida em duas colunas.
+
+Lado esquerdo:
+
+Título:
+
+**Compromisso, técnica e resultados reais.**
+
+Adicionar texto apresentando a Brasil Forte.
+
+Exemplo de conteúdo:
+
+A Brasil Forte Impermeabilizadora nasceu com o propósito de oferecer soluções profissionais para proteção, recuperação e valorização de imóveis.
+
+Nossa atuação é baseada na análise correta de cada problema, escolha adequada dos materiais e execução cuidadosa de cada etapa do serviço.
+
+Mais do que executar um serviço, nosso objetivo é identificar a origem do problema e apresentar ao cliente a solução mais adequada para cada situação.
+
+Destacar uma frase:
+
+**Brasil Forte — protegendo hoje aquilo que você construiu para durar.**
+
+Adicionar botão:
+
+**Conhecer a empresa**
+
+Lado direito:
+
+Foto da equipe, profissionais ou estrutura da empresa.
+
+Abaixo ou sobre a imagem adicionar pequenos diferenciais:
+
+* Atendimento em todo o estado
+* Materiais de alta qualidade
+* Técnicas modernas
+* Compromisso com prazos
+
+---
+
+# 5. Serviços
+
+Criar uma seção com fundo escuro.
+
+Título:
+
+**Soluções completas em impermeabilização**
+
+Mostrar aproximadamente seis cards inicialmente.
+
+Serviços:
+
+* Impermeabilização de lajes
+* Impermeabilização de telhados
+* Impermeabilização de piscinas
+* Impermeabilização de banheiros
+* Caixas d'água e reservatórios
+* Tratamento de infiltrações
+
+Cada card deve ter:
+
+Imagem.
+
+Nome do serviço.
+
+Ícone pequeno.
+
+Efeito de hover.
+
+Ao passar o mouse, o card pode subir suavemente ou apresentar uma camada de informações.
+
+Adicionar botão:
+
+**Ver todos os serviços**
+
+A estrutura deve permitir adicionar futuramente outros serviços.
+
+---
+
+# 6. Antes e Depois
+
+Criar uma seção clara.
+
+Título:
+
+**Resultados que você pode ver**
+
+Essa parte deve apresentar comparações de obras.
+
+Criar cards de antes e depois.
+
+Idealmente implementar um componente de comparação onde o usuário pode arrastar verticalmente uma divisória para visualizar o antes e o depois.
+
+Exemplos:
+
+* Impermeabilização de laje
+* Tratamento de infiltração
+* Impermeabilização de piscina
+* Recuperação de fachada
+
+Essa seção é muito importante para gerar confiança.
+
+---
+
+# 7. Portfólio / Obras realizadas
+
+Criar uma seção com fundo escuro.
+
+Título:
+
+**Conheça alguns dos nossos trabalhos**
+
+Criar cards de projetos.
+
+Cada card deve conter:
+
+Imagem da obra.
+
+Nome do projeto.
+
+Cidade.
+
+Tipo de serviço.
+
+Pequena descrição.
+
+Exemplo:
+
+**Impermeabilização de cobertura**
+
+São Paulo - SP
+
+Infiltrações provocadas por falhas na impermeabilização existente. Foi realizada preparação da superfície e aplicação de um novo sistema de impermeabilização.
+
+Adicionar botão:
+
+**Ver mais obras**
+
+O portfólio deverá ser preparado para futuramente possuir uma página própria.
+
+---
+
+# 8. Como trabalhamos
+
+Criar uma seção clara com cinco etapas.
+
+Utilizar números grandes e ícones.
+
+Fluxo:
+
+**01 — Entre em contato**
+
+Cliente envia informações, fotos ou vídeos do problema.
+
+↓
+
+**02 — Avaliação**
+
+A empresa analisa o problema e realiza visita técnica quando necessário.
+
+↓
+
+**03 — Orçamento**
+
+O cliente recebe a solução indicada e o orçamento detalhado.
+
+↓
+
+**04 — Execução**
+
+A equipe realiza o serviço utilizando os procedimentos e materiais adequados.
+
+↓
+
+**05 — Entrega**
+
+Inspeção final e orientações para maior durabilidade.
+
+No desktop apresentar horizontalmente.
+
+No mobile apresentar verticalmente.
+
+---
+
+# 9. Diferenciais
+
+Criar uma seção destacando:
+
+Título:
+
+**Por que escolher a Brasil Forte?**
+
+Diferenciais:
+
+* Equipe especializada e treinada
+* Soluções específicas para cada problema
+* Materiais de alta qualidade
+* Execução dentro das normas técnicas
+* Organização e limpeza durante a obra
+* Garantia nos serviços
+
+Utilizar ícones pequenos em amarelo.
+
+---
+
+# 10. Depoimentos
+
+Adicionar seção com avaliações de clientes.
+
+Cada card pode conter:
+
+Foto ou avatar.
+
+Nome do cliente.
+
+Cidade.
+
+Avaliação com estrelas.
+
+Texto curto.
+
+Criar formato de slider/carrossel para facilitar futuras adições.
+
+---
+
+# 11. Empresas atendidas
+
+Criar uma pequena área:
+
+**Empresas que confiam em nosso trabalho**
+
+Mostrar logos de clientes ou parceiros.
+
+Os logos devem ter tamanho padronizado e aparência organizada.
+
+Essa área poderá ser removida ou escondida enquanto não existirem clientes para apresentar.
+
+---
+
+# 12. CTA principal
+
+Criar uma seção forte próxima ao final.
+
+Fundo escuro.
+
+Título:
+
+**Proteja seu imóvel**
+
+Complemento:
+
+**Fale com quem entende do assunto.**
+
+Texto:
+
+Está com problemas de infiltração ou precisa impermeabilizar sua obra? Fale com nossa equipe e solicite uma avaliação.
+
+Botão grande:
+
+**Chamar no WhatsApp**
+
+Adicionar ícone do WhatsApp.
+
+---
+
+# 13. Formulário de orçamento
+
+Criar formulário com:
+
+* Nome completo
+* Telefone / WhatsApp
+* E-mail
+* Tipo de imóvel
+* Cidade
+* Tipo de problema
+* Descrição do problema
+* Upload de fotos opcional
+
+Botão:
+
+**Enviar solicitação**
+
+Realizar validações básicas dos campos.
+
+Preparar o formulário para futuramente enviar os dados para backend, e-mail ou API.
+
+---
+
+# 14. Footer
+
+O rodapé deve possuir fundo preto/grafite.
+
+Adicionar:
+
+Logo Brasil Forte.
+
+Descrição curta.
+
+Contato:
+
+Telefone.
+
+WhatsApp.
+
+E-mail.
+
+Endereço ou região de atendimento.
+
+Horário de funcionamento.
+
+Links rápidos.
+
+Redes sociais.
+
+Copyright.
+
+---
+
+# WhatsApp
+
+Criar botão flutuante do WhatsApp no canto inferior direito.
+
+Ao clicar deve abrir uma conversa com mensagem pré-definida.
+
+Exemplo:
+
+"Olá, conheci a Brasil Forte pelo site e gostaria de solicitar um orçamento para impermeabilização."
+
+---
+
+# Responsividade
+
+O site precisa funcionar perfeitamente em:
+
+Desktop.
+
+Notebook.
+
+Tablet.
+
+Smartphone.
+
+O design deve ser desenvolvido inicialmente pensando em desktop, porém todos os elementos devem possuir adaptação para telas menores.
+
+No mobile:
+
+Menu deve virar menu hamburguer.
+
+Cards devem ser reorganizados.
+
+Textos devem possuir tamanhos menores.
+
+CTAs precisam continuar bem visíveis.
+
+---
+
+# Animações
+
+Utilizar animações sutis.
+
+Exemplos:
+
+Fade-in ao entrar na tela.
+
+Elementos subindo levemente no scroll.
+
+Hover nos cards.
+
+Botões com pequenas transições.
+
+Imagens com pequeno zoom no hover.
+
+Evitar animações exageradas.
+
+O objetivo é transmitir modernidade sem prejudicar a experiência.
+
+---
+
+# Direção visual
+
+O site precisa ter um estilo semelhante a sites modernos de engenharia, arquitetura e empresas premium de construção.
+
+A interface deve trabalhar bastante com contraste entre:
+
+**áreas claras + áreas escuras.**
+
+Utilizar:
+
+Tipografia forte nos títulos.
+
+Textos pequenos e organizados.
+
+Cards grandes.
+
+Fotografias profissionais.
+
+Ícones minimalistas.
+
+Linhas finas.
+
+Espaçamento generoso.
+
+Detalhes amarelos.
+
+A sensação geral deve ser de uma empresa estruturada e confiável.
+
+---
+
+# Prioridade do projeto
+
+A principal jornada do usuário deve ser:
+
+**Entrar no site → entender o que a Brasil Forte faz → visualizar os serviços → ver resultados → conhecer obras realizadas → confiar na empresa → solicitar orçamento.**
+
+O botão **Solicitar orçamento** deve estar presente em vários pontos estratégicos do site.
+
+Não queremos apenas um site institucional.
+
+Queremos um site comercial preparado para **converter visitantes em clientes.**

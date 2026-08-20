@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Impermeabilizadora Brasil Forte</title>
+  <desc id="desc">Símbolo arquitetônico dourado envolvido por dois arcos, com o nome Impermeabilizadora Brasil Forte.</desc>
+  <g fill="none" stroke="#d8aa2d" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="400" cy="400" r="325"/>
+    <path d="M244 341h313M252 367h297M263 341v26m28-26v26m28-26v26m28-26v26m28-26v26m28-26v26m28-26v26m28-26v26m28-26v26m28-26v26"/>
+    <path d="M330 341V180q0-10 10-10h28q10 0 10 10v161M378 341V180q0-10 10-10h28q10 0 10 10v161M378 258h48m-48 18h48m-48 18h48"/>
+    <path d="M244 341a63 63 0 0 1 126 0M443 291h132a66 66 0 0 1-132 0Z"/>
+  </g>
+  <g fill="#d8aa2d" font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="400" y="466" font-size="53" font-weight="700" letter-spacing="5">IMPERMEABILIZADORA</text>
+    <text x="400" y="552" font-size="52" font-weight="600" letter-spacing="18">BRASIL FORTE</text>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 300" role="img" aria-labelledby="title">
+  <title id="title">Símbolo da Impermeabilizadora Brasil Forte</title>
+  <g fill="none" stroke="#d8aa2d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="180" cy="150" r="140"/>
+    <path d="M74 174h218M80 194h206M88 174v20m24-20v20m24-20v20m24-20v20m24-20v20m24-20v20m24-20v20m24-20v20m24-20v20"/>
+    <path d="M134 174V58q0-8 8-8h20q8 0 8 8v116M170 174V58q0-8 8-8h20q8 0 8 8v116M170 112h36m-36 16h36m-36 16h36"/>
+    <path d="M74 174a46 46 0 0 1 92 0M218 138h74a37 37 0 0 1-74 0Z"/>
+  </g>
+</svg>
